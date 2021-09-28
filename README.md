@@ -1,2 +1,4 @@
 # zabbix-users-objects-exporter
-export all users objects from one given zbx server and then import all exported object in a receiver zbx server
+
+## this script export all users objects like hostgroup, mediatypes, usergroups and users from a given zabbix server to
+## a receiver zabbix server in order to preserve all usergroup permission in the object shifting
