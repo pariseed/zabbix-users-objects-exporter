@@ -9,5 +9,5 @@
 
 # deps and configuration
 ### the only python module required to run the script is pyzabbix, you can install it with pip:
-> pip install pyzabbix
+> pip3 install pyzabbix
 ### to configure yours input and output zbx servers, just open the script and edit the required params in the configuration section   
